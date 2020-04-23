@@ -16,6 +16,7 @@ TODO: Create `reStructuredText` pandoc template
 
 ## Slides 
 
-See: `slides` folder
+See: `slides` folder.
+
 Write Slides and notes in markdown format and convert to HTML or pdf using pandoc
 
