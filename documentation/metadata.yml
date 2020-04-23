@@ -1,0 +1,16 @@
+---
+author: Author
+company: Company Pvt. Ltd.
+title: Documentation Title
+subtitle: subtitle
+version: version 0.5
+listcontributors: false
+documentclass: report
+fontsize: 11pt
+geometry:
+- top=3mm
+- bottom=15mm
+- right=15mm
+- left=15mm
+
+...
